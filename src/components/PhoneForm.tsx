@@ -63,7 +63,7 @@ export const PhoneForm = () => {
         />
       </div>
       
-      <Button type="submit" className="w-full">
+      <Button type="submit" className="w-full bg-[#00F3FE] text-black hover:bg-[#00F3FE]/90">
         Submit
       </Button>
     </form>
