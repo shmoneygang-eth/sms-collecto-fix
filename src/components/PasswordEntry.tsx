@@ -27,7 +27,7 @@ export const PasswordEntry = () => {
         maxLength={256}
         className="w-full"
       />
-      <Button type="submit" className="w-full">
+      <Button type="submit" className="w-full bg-[#00F3FE] text-black hover:bg-[#00F3FE]/90">
         Enter
       </Button>
     </form>
