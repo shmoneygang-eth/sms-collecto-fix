@@ -17,7 +17,7 @@ const Index = () => {
           </p>
         </div>
 
-        <div className="bg-white p-6 rounded-lg shadow-md">
+        <div className="bg-white p-6 rounded-lg">
           <PhoneForm />
         </div>
 
