@@ -11,9 +11,9 @@ const Index = () => {
             alt="Brand Logo" 
             className="mx-auto mb-6 w-32 h-auto"
           />
-          <h1 className="text-3xl font-bold mb-2">Store is closed rn man...</h1>
-          <p className="text-gray-600 mb-8">
-            Enter your phone number to get VIP access when we open.
+          <h1 className="text-3xl font-bold mb-2">Get VIP Early Access</h1>
+          <p className="text-gray-600 mb-4">
+            Enter your Phone Number to get the Site Password
           </p>
         </div>
 
